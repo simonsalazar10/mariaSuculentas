@@ -1,0 +1,20 @@
+.navbar{
+  height: 8vh !important;
+
+}
+.card{
+  margin-top: 3% !important;
+  display: flex; 
+}
+
+
+.card img{
+  height: 40vh !important;
+  width: 100% !important;
+}
+article{
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-evenly;
+}
+
