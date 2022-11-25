@@ -8,7 +8,6 @@ const Imgs = () => {
       <article>
         <Card1 />
         <Card2 />
-        
       </article>
     </main>
   );

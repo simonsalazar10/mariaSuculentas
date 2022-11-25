@@ -1,10 +1,10 @@
 const Header = () => {
   return (
     <header className="header">
-      <nav className="navbar navbar-expand-lg bg-light">
+      <nav className="navbar navbar-expand">
         <section className="container-fluid">
           <a className="navbar-brand" href="#">
-            Navbar
+            MARIHUANA
           </a>
           <button
             className="navbar-toggler"
@@ -21,21 +21,16 @@ const Header = () => {
             <ul className="navbar-nav">
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">
-                  Home
+                  Inicio
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
-                  Features
+                  Contactos
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
-                  Pricing
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link disabled">Disabled</a>
+                <a className="nav-link disabled"></a>
               </li>
             </ul>
           </section>
